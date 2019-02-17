@@ -1,0 +1,30 @@
+{
+    "name": "horaio",
+    "version": "1.0.0",
+    "description": "hora implements promises a+ spec",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "promises-aplus-tests test/hora-adapter"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rishabhio/hora.git"
+    },
+    "keywords": [
+        "promises",
+        "a+",
+        "rishabhio"
+    ],
+    "author": "rishabh.io",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rishabhio/hora/issues"
+    },
+    "homepage": "https://github.com/rishabhio/hora#readme",
+    "devDependencies": {
+        "promises-aplus-tests": "^2.1.2"
+    }
+}

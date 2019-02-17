@@ -21,12 +21,21 @@ I don't want it to be the best lib in the world but I still have a few things in
 
 What's interesting about this lib?
 
-I'm going to document each and every step along with timestamp on how I achieved what I achieved, 
-I'm less worried about what I achieve though I do plan to enjoy the journey. 
+Hora :::: In hinda means "something happening and results are awaited
+Hora :::: Google translate for "time" gives Hora 
 
-So here we're 2:21 am in the morning. World is sleeping and let's read the following first of all. 
+This library is created more for the purpose of learning and as sucn recommended only for 
+learning purposes. 
 
-1. Spec itself 
-2. The tiny libraries based on it. 
-3. Then we'll proceed for a poc. 
+How to test this lib >>> 
+```
+npm install hora 
+```
+
+
+```
+npm test 
+```
+
+
 
